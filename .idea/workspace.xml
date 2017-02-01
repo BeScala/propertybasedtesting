@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b95c03a-1e0d-40b8-bb6e-699d64be1357" name="Default" comment="" />
+    <ignored path="propertybasedtesting.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="propertybasedtesting" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/challenge-gender-classification" value="1476890328121" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/git/gs-accessing-data-jpa/complete" value="1463037972674" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/git/gs-accessing-data-rest/complete" value="1463039200867" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/git/myaxon-gradle" value="2929361260344" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/github_repositories/cadastre" value="5855301887020" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/github_repositories/keng-cadaster" value="5853469030513" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/github_repositories/keng-magda-stub" value="5851804810784" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/gradle_axon/keng-cadastre-cqrs" value="5859154207000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/testing/solutions/testing04/Testing04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/testing/exercises/testing04/Testing04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/testing/solutions/testing05/Testing05.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/testing/exercises/testing05/Testing05.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="propertybasedtesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cronos/keng/github_repositories" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/testing/exercises/testing05" />
+      <recent name="$PROJECT_DIR$/src/main/scala/testing/solutions/testing05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Testing05">
+    <configuration default="false" name="Testing05" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="testing.solutions.testing05.Testing05" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="propertybasedtesting" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="propertybasedtesting" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Testing05" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Testing05" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1485939781641" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="propertybasedtesting" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="propertybasedtesting" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="propertybasedtesting-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/activator-lagom-java-chirper-master" value="1463638672000" />
+        <entry key="$USER_HOME$/Desktop/my-first-system" value="1463514232445" />
+        <entry key="$PROJECT_DIR$/../../activator/flatmapthatshit" value="1452108156259" />
+        <entry key="$PROJECT_DIR$/../../activator/hello-slick-3.0" value="1448056745973" />
+        <entry key="$PROJECT_DIR$/../../activator/slick-plainsql-3.1" value="1448552046353" />
+        <entry key="$PROJECT_DIR$/../fpinscala" value="1454447854392" />
+        <entry key="$PROJECT_DIR$" value="1485939731184" />
+        <entry key="$PROJECT_DIR$/../propertybasestesting" value="1485890825102" />
+        <entry key="$PROJECT_DIR$/../purelyFunctionalParallelism" value="1481825376078" />
+        <entry key="$PROJECT_DIR$/../../conferences/devoxx2017" value="1480883297338" />
+        <entry key="$PROJECT_DIR$/../../conferences/lambdaDays2015" value="1442253078912" />
+        <entry key="$PROJECT_DIR$/../../conferences/lambdaDays2017" value="1478455603323" />
+        <entry key="$PROJECT_DIR$/../../cronos/auriga" value="1445239996707" />
+        <entry key="$PROJECT_DIR$/../../cronos/auriga-ror-mock" value="1458557772473" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/central_controller" value="1475344722657" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/genderClassification" value="1475404482238" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/genderClassification_algorithm" value="1476732427348" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/genderClassification_student" value="1476114395445" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/genderClassification_validator" value="1479240132013" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/repeatedDigits" value="1475309466055" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/repeatedDigits_student" value="1475398702886" />
+        <entry key="$PROJECT_DIR$/../../cronos/beekse_bergen/repeatedDigits_validator" value="1475325859020" />
+        <entry key="$PROJECT_DIR$/../../cronos/git/authentikat-jwt" value="1447767835696" />
+        <entry key="$PROJECT_DIR$/../../cronos/git/postgresql-async" value="1447858096949" />
+        <entry key="$PROJECT_DIR$/../../cronos/keng/git/keng-sandbox/quickstart" value="1462176786793" />
+        <entry key="$PROJECT_DIR$/../../cronos/vodafone/play-restful-docker" value="1454430561000" />
+        <entry key="$PROJECT_DIR$/../../cronos/vodafoneGig/play-restful-docker" value="1454430562000" />
+        <entry key="$PROJECT_DIR$/../../cronos/zip/contractAsGroupPool/auriga" value="1451393538000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/advanced-akka-scala" value="1462365016000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/001_Complete_initial_state" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/002_Remoting" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/003_Cluster_events" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/004_Cluster_aware_routers" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/005_Cluster_singleton" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/aas/solutions/006_Cluster_sharding" value="1462365014000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/activator/activator-lagom-java-chirper" value="1460705439189" />
+        <entry key="$PROJECT_DIR$/../../lightbend/activator/greeter-lagom" value="1461072208115" />
+        <entry key="$PROJECT_DIR$/../../lightbend/activator/minimal-lagom" value="1460982075063" />
+        <entry key="$PROJECT_DIR$/../../lightbend/activator/my-first-system" value="1460723143814" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/scalatrain" value="1456345310000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/001_Exercise__Tail_recursive_operation" value="1456348908000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/002_Group_exercise__Power_of_recursion" value="1456348908000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/003_Exercise__Use_forall_and_sliding" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/004_Group_exercise__Power_of_folding" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/005_Exercise__Calculate_connections_I" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/006_Exercise__Calculate_connections_II" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/007_Exercise__Calculate_connections_III" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/008_Exercise__Calculate_connections_IV" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/009_Group_exercise__Calculate_connections_V" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/011_Exercise__Create_a_queue" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/012_Exercise__Covariance" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/013_Exercise__Lower_bounds" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/014_Exercise__Upper_bounds" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/015_Group_exercise__Feeding_animals___outline" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/016_Group_exercise__Feeding_animals" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/017_Exercise__Implicit_conversions_I" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/018_Exercise__Implicit_conversions_II" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/019_Exercise__Extend_my_library" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/020_Group_exercise__Type_classes" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/021_Exercise__Type_classes" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/022_Group_exercise__View_context_bounds" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/023_Group_exercise__Custom_control_abstr_" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/024_Exercise__Custom_control_abstractions" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/025_Group_exercise__DSL_for_Time" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/026_Exercise__DSL_for_Train" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/027_Exercise__Queues_like_Scala_Seqs" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/as/solutions/028_Exercise__CanBuildFrom_for_Queue" value="1456348909000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/fast-track-akka-scala" value="1456348656000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/000_Initial_state__koan_initial_" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/001_Implement_actor" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/002_Top_level_actor" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/003_Message_actor" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/004_Use_sender" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/005_Child_actors" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/006_Actor_state" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/007_Use_scheduler" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/008_Busy_actor" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/009_Stop_actor" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/010_Lifecycle_monitoring" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/011_Faulty_guest" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/012_Custom_supervision" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/013_Faulty_waiter" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/014_Self_healing" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/015_Detect_bottleneck" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/016_Implement_router" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/017_Configure_dispatcher" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/018_Modify_behavior" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/019_Ask_pattern" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/020_Akka_extensions" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/fttas/solutions/021_Fsm" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/scalatrain" value="1456346096000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/000_Initial_state__koan_initial_" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/001_Exercise__Define_a_Class" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/002_Exercise__Define_Class_Parameters" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/003_Exercise__Promote_Class_Parameters" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/004_Exercise__Define_a_Field" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/005_Exercise__Define_a_Method" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/006_Exercise__Define_an_Operator" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/007_Exercise__Use_Default_Arguments" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/008_Exercise__Use_Packages" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/009_Exercise__Define_a_Companion_Object" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/010_Exercise__Check_Preconditions" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/011_Exercise__Define_Case_Classes" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/012_Group_exercise__Tests" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/013_Exercise__Use_a_Sequence" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/014_Exercise__Use_map" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/015_Exercise__Use_flatMap" value="1456349694000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/016_Exercise__Use_filter" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/017_Exercise__Use_for_expressions" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/018_Exercise__Override_toString" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/019_Exercise__Define_an_ADT" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/020_Exercise__Use_a_Trait" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/021_Exercise__Use_Match_Expressions" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/022_Group_exercise__Use_Patterns" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/023_Exercise__Use_Option" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../lightbend/ftts/solutions/024_Exercise__Use_Try" value="1456349695000" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/BACKUP/free_almost_ok" value="1478068716731" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/BACKUP/free_new" value="1477734518954" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/BACKUP/free_old" value="1477734461391" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/activator-lagom-java-chirper" value="1460382378060" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/cats-workshop" value="1457378279241" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/computations" value="1457989279067" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/conferenceTalk" value="1479754610305" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/devoxx-2017" value="1478203166618" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/free" value="1478068878730" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/jumpingfrogs" value="1454589508228" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/learning-cats" value="1483648255529" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/my_fun_cqrs" value="1484769585452" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/play-scala-intro" value="1444734973734" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/streams-workshop" value="1444072103840" />
+        <entry key="$PROJECT_DIR$/../../scala/activator/syntaxSemantics" value="1478889262680" />
+        <entry key="$PROJECT_DIR$/../../scala/git/AkkaNetworkPing" value="1450806608241" />
+        <entry key="$PROJECT_DIR$/../../scala/git/cats" value="1483646565505" />
+        <entry key="$PROJECT_DIR$/../../scala/git/event-stream-api" value="1474956277883" />
+        <entry key="$PROJECT_DIR$/../../scala/git/fpinscala" value="1485546196365" />
+        <entry key="$PROJECT_DIR$/../../scala/git/fun-cqrs" value="1482180406168" />
+        <entry key="$PROJECT_DIR$/../../scala/git/genetic_algorithm" value="1471462198198" />
+        <entry key="$PROJECT_DIR$/../../scala/git/genetic_algorithm_refactored" value="1471462198198" />
+        <entry key="$PROJECT_DIR$/../../scala/git/intro-to-scala/scala-workshop" value="1444730687841" />
+        <entry key="$PROJECT_DIR$/../../scala/git/learning-spark-master" value="1446167697000" />
+        <entry key="$PROJECT_DIR$/../../scala/git/macwire" value="1447147785530" />
+        <entry key="$PROJECT_DIR$/../../scala/git/reifications-in-cqrs/code" value="1482008374393" />
+        <entry key="$PROJECT_DIR$/../../scala/git/shapeless" value="1455567990224" />
+        <entry key="$PROJECT_DIR$/../../scala/stekskes" value="1479840052741" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.465625" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/exercises/testing03/Testing03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/solutions/testing03/Testing03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/exercises/testing04/Testing04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="146" column="3" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+          <folding>
+            <element signature="e#37#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/solutions/testing04/Testing04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="162" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/laziness/Stream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/solutions/testing05/Testing05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="209" column="0" selection-start-line="209" selection-start-column="0" selection-end-line="290" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/testing/exercises/testing05/Testing05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1731">
+          <caret line="268" column="1" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
