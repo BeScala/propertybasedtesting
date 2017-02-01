@@ -76,7 +76,7 @@ object Gen {
 
 object Testing03 extends App {
   private def show[A](ga: Gen[A]): Unit =
-    println(ga.sample.run(Simple(System.currentTimeMillis()))._1)
+    println(ga.sample.run(Simple(System.nanoTime()))._1)
 
   show(boolean)
   show(choose(0, 10))

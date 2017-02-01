@@ -143,7 +143,7 @@ object Gen {
 
 object Testing04 extends App {
   private def show[A](ga: Gen[A]): Unit =
-    println(ga.sample.run(Simple(System.currentTimeMillis()))._1)
+    println(ga.sample.run(Simple(System.nanoTime()))._1)
 
   show(boolean)
   show(choose(0, 10))
@@ -154,7 +154,7 @@ object Testing04 extends App {
 
   private def check(prop: Prop): Unit = {
     val numberOfTestCases = 100
-    println(prop.check(numberOfTestCases, Simple(System.currentTimeMillis())) match {
+    println(prop.check(numberOfTestCases, Simple(System.nanoTime())) match {
       case Passed =>
         s"\033[32mOK: the property passed ${numberOfTestCases} tests\033[0m"
       case Falsified(falsifiedMessage, successCount) =>
